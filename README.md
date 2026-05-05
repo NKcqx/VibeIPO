@@ -2,9 +2,10 @@
 
 > 一个 Cursor Skill + 配套脚本，用于分析港股 / 美股 IPO 新股，输出散户友好的认购决策备忘录——不是投行式的「建议关注」。
 
-📦 GitHub: [`NKcqx/VibeIPO`](https://github.com/NKcqx/VibeIPO)
+想直接要标的分析报告的，可以发 issue。
 
-> **为什么需要它**：典型港股 IPO 招股书 800-1500 页、招股窗口 3-5 个工作日、券商 App 一键孖展。信息密度高、时间压力大。本项目把可重复的 9 步流程编码成 AI Agent 能在 10-15 分钟跑完的工作流。
+## 为什么需要它
+典型港股 IPO 招股书 800-1500 页、招股窗口 3-5 个工作日、券商 App 一键孖展。信息密度高、时间压力大。本项目把可重复的 9 步流程编码成 AI Agent 能在 10-15 分钟跑完的工作流。
 
 ## Quick Start
 
@@ -182,8 +183,10 @@ cp cases/01187-可孚医疗.md cases/<code>-<name>.md
 - 美股：`<ticker>-<EnglishName>.md`（如 `RDDT-Reddit.md`）
 - 远期 / 未递表：`<ticker>-<sponsor>-<theme>.md`（如 `Roze-SoftBank-AI.md`）
 
-回归测试 case（已上市标的，假装不知道结果跑 skill）放 `cases/backtest/`。
 
 ## License
 
 个人项目，使用风险自负，无任何明示或默示的担保。
+
+## Buy Me A Coffe ☕️
+![Buy Me A Coffee](https://i.imgs.ovh/2026/05/05/f6269338cd42e4ce5f92f8fb0d882045.png)
