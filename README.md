@@ -189,4 +189,6 @@ cp cases/01187-可孚医疗.md cases/<code>-<name>.md
 个人项目，使用风险自负，无任何明示或默示的担保。
 
 ## Buy Me A Coffe ☕️
-![Buy Me A Coffee](https://i.imgs.ovh/2026/05/05/f6269338cd42e4ce5f92f8fb0d882045.png)
+<p align="center">
+  <img src="https://i.imgs.ovh/2026/05/05/f6269338cd42e4ce5f92f8fb0d882045.png" alt="Buy Me A Coffee" width="280">
+</p>
